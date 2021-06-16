@@ -1,4 +1,4 @@
 # Starbucks
 
 # Netlify
-https://app.netlify.com/teams/hun-se/overview
+https://infallible-sammet-3f1eed.netlify.app/
